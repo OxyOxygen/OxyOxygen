@@ -4,28 +4,24 @@
 
 **Computer Engineering Student**
 
-Focused on machine learning, data science, RAG and LLM-based applications.
+Focused on applied machine learning, data science, RAG and LLM-based systems.
 
 </div>
 
-<br>
+---
 
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,docker,git,cpp" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,docker,git,cpp" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
 
 
