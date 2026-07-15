@@ -1,72 +1,33 @@
 <div align="center">
 
-# AI R&D Intern · Computer Engineering Student
+# AI R&D Intern
 
-Focused on applied artificial intelligence, machine learning,
-LLM systems and data-driven software development.
+**Computer Engineering Student**
 
-</div>
-
----
-
-## Focus Areas
-
-```text
-Machine Learning       • Model development and evaluation
-Data Science           • Statistical analysis and feature engineering
-Generative AI          • LLM applications and structured outputs
-Retrieval Systems      • RAG, embeddings and semantic search
-AI Engineering         • Reliable and modular AI applications
-```
-
----
-
-## Technology Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=DC143C)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=DC143C)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus\&logoColor=DC143C)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=DC143C)
-
-### AI & Data
-
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge\&logo=pytorch\&logoColor=DC143C)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge\&logo=scikitlearn\&logoColor=DC143C)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas\&logoColor=DC143C)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge\&logo=numpy\&logoColor=DC143C)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=for-the-badge\&logo=huggingface\&logoColor=DC143C)
-
-### Tools & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=DC143C)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=DC143C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=DC143C)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis\&logoColor=DC143C)
-![Qdrant](https://img.shields.io/badge/Qdrant-111111?style=for-the-badge\&logoColor=DC143C)
-
----
-
-## Research & Engineering Interests
-
-* Retrieval-Augmented Generation
-* Large Language Model Applications
-* Multimodal Artificial Intelligence
-* Machine Learning Systems
-* Semantic Search and Vector Databases
-* Model Evaluation and Reliability
-* Data-Centric AI
-
----
-
-<div align="center">
-
-```text
-RESEARCH  •  BUILD  •  EVALUATE  •  IMPROVE
-```
+Focused on machine learning, data science, RAG and LLM-based applications.
 
 </div>
+
+<br>
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,docker,git,cpp" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+
+</p>
+
 
 
 
