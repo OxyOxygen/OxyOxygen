@@ -4,7 +4,7 @@
 
 <p>
   <strong>Computer Engineering Student</strong><br>
-  Focused on applied machine learning, data science, RAG and LLM-based systems.
+  Focused on applied machine learning, deep learning, data science, RAG and LLM-based systems.
 </p>
 
 <h3>Tech Stack</h3>
