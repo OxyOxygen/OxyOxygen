@@ -41,7 +41,7 @@
     <text x="150" y="105" fill="#8b949e" font-size="15" font-weight="650" letter-spacing="4">AI R&amp;D // ENGINEERING</text>
     <text x="150" y="168" fill="#f0f3f6" font-size="58" font-weight="760" letter-spacing="1">ARDA ÇİFTÇİ</text>
     <rect x="150" y="190" width="610" height="3" rx="2" fill="url(#speed)"/>
-    <text x="150" y="230" fill="#c9d1d9" font-size="20">Machine Learning · Deep Learning · AI Systems</text>
+    <text x="150" y="230" fill="#c9d1d9" font-size="20">Machine Learning · Deep Learning · Software Engineering</text>
     <text x="150" y="264" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1">DATA → MODELS → MEASURABLE SYSTEMS</text>
   </g>
 
