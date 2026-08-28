@@ -21,8 +21,8 @@ I build applied machine learning, multimodal deep learning and production-minded
 
 | Project | Engineering signal |
 | --- | --- |
-| [Multimodal Clinical Reasoning](https://github.com/OxyOxygen/multimodal-clinical-reasoning) | BiomedCLIP + GPT-2 report generation, cross-attention and four controlled ablation variants evaluated on 1,000 samples. |
-| [Urban Mobility & Mood](https://github.com/OxyOxygen/urban-mobility-mood) | Collaborative study of 974 days of Istanbul data; statistical testing and eight ML benchmarks for mood forecasting. |
+| [Multimodal Clinical Reasoning](https://github.com/buraksamisirin/multimodal-clinical-reasoning) | Collaborative research project using BiomedCLIP + GPT-2, cross-attention and four controlled ablation variants evaluated on 1,000 samples. |
+| [Urban Mobility & Mood](https://github.com/buraksamisirin/urban-mobility-mood) | Collaborative study of 974 days of Istanbul data; statistical testing and eight ML benchmarks for mood forecasting. |
 | [Customer Churn Prediction](https://github.com/OxyOxygen/Customer_Churn_Prediction) | CatBoost pipeline with 60 engineered features, five-fold validation and competition-specific evaluation metrics. |
 | [AI Workstation Monitor](https://github.com/OxyOxygen/System_Monitor) | C++17 telemetry suite with modular hardware providers, asynchronous polling and AI-workstation diagnostics. |
 
@@ -41,11 +41,7 @@ I build applied machine learning, multimodal deep learning and production-minded
 
 </div>
 
-## Activity
-
 <div align="center">
-
-[![Arda's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=OxyOxygen&bg_color=0d1117&color=c9d1d9&line=ef233c&point=ff5964&area=true&area_color=7f1d1d&hide_border=true&custom_title=Contribution%20Telemetry)](https://github.com/OxyOxygen)
 
 <sub>Build deliberately. Measure everything.</sub>
 
