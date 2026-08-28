@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Arda Çiftçi — AI, data and systems" />
+<img src="./assets/header-v2.svg" width="100%" alt="Arda Çiftçi — AI, data and systems" />
 
 ### AI R&D Intern · Computer Engineering Student
 
