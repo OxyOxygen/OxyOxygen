@@ -22,7 +22,7 @@ I build applied machine learning, deep learning and production-minded AI systems
 | --- | --- |
 | [Multimodal Clinical Reasoning](https://github.com/buraksamisirin/multimodal-clinical-reasoning) | **Contributor** — cleaned and analyzed VQA-RAD data, engineered 34 multimodal/clinical features and documented the dataset findings. |
 | [Urban Mobility & Mood](https://github.com/buraksamisirin/urban-mobility-mood) | **Contributor** — implemented statistical analysis and ML model selection across regression and classification experiments. |
-| [Customer Churn Prediction](https://github.com/OxyOxygen/Customer_Churn_Prediction) | Built a CatBoost pipeline with 60 engineered features, five-fold validation and competition-specific evaluation metrics. |
+| [EurasiaAirlines](https://github.com/buraksamisirin/EurasiaAirlines) | **Contributor** — implemented database and authentication setup, flight-seat workflows, ticket purchasing and passenger booking views in ASP.NET MVC. |
 | [AI Workstation Monitor](https://github.com/OxyOxygen/System_Monitor) | Built a C++17 telemetry suite with modular hardware providers, asynchronous polling and AI-workstation diagnostics. |
 
 ## Core stack
