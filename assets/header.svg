@@ -30,28 +30,19 @@
   <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
   <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
 
-  <g transform="translate(178 160)">
-    <circle r="96" fill="none" stroke="#ef233c" stroke-opacity="0.18"/>
-    <circle r="73" fill="none" stroke="#ef233c" stroke-opacity="0.10"/>
-    <path d="M-62 60C-38-58 10-82 74-63C24-28 12 14 18 78" fill="none" stroke="#080a0f" stroke-width="31" stroke-linecap="round"/>
-    <path d="M-62 60C-38-58 10-82 74-63" fill="none" stroke="#ef233c" stroke-width="3" stroke-linecap="round" filter="url(#soft)"/>
-    <path d="M-39 24C-7 9 26 9 59 20" fill="none" stroke="#ff304f" stroke-width="7" stroke-linecap="round" filter="url(#soft)"/>
-    <path d="M-84-25H-137M-91 5H-154M-72 36H-124" stroke="#ef233c" stroke-opacity="0.58" stroke-width="3"/>
-    <path d="M69-86l19-23M83-71l31-17M90-50l36-6" stroke="#ef233c" stroke-opacity="0.25"/>
-  </g>
-
   <g opacity="0.72">
-    <path d="M0 268H284L346 206H552" fill="none" stroke="url(#speed)" stroke-width="2"/>
-    <path d="M0 281H246L314 213" fill="none" stroke="#ef233c" stroke-opacity="0.22"/>
+    <path d="M0 268H86L148 206H552" fill="none" stroke="url(#speed)" stroke-width="2"/>
+    <path d="M0 281H52L120 213" fill="none" stroke="#ef233c" stroke-opacity="0.22"/>
+    <path d="M0 84H88M0 101H54M0 118H116" stroke="#ef233c" stroke-opacity="0.38" stroke-width="2"/>
     <path d="M812 68H1200M873 81H1200M946 94H1200" stroke="url(#speed)"/>
   </g>
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
-    <text x="350" y="105" fill="#8b949e" font-size="15" font-weight="650" letter-spacing="4">AI R&amp;D // ENGINEERING</text>
-    <text x="350" y="168" fill="#f0f3f6" font-size="54" font-weight="760" letter-spacing="1">ARDA ÇİFTÇİ</text>
-    <rect x="350" y="190" width="515" height="3" rx="2" fill="url(#speed)"/>
-    <text x="350" y="230" fill="#c9d1d9" font-size="20">Applied ML · Multimodal Learning · LLM Systems</text>
-    <text x="350" y="264" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1">DATA → MODELS → MEASURABLE SYSTEMS</text>
+    <text x="150" y="105" fill="#8b949e" font-size="15" font-weight="650" letter-spacing="4">AI R&amp;D // ENGINEERING</text>
+    <text x="150" y="168" fill="#f0f3f6" font-size="58" font-weight="760" letter-spacing="1">ARDA ÇİFTÇİ</text>
+    <rect x="150" y="190" width="610" height="3" rx="2" fill="url(#speed)"/>
+    <text x="150" y="230" fill="#c9d1d9" font-size="20">Applied ML · Multimodal Learning · LLM Systems</text>
+    <text x="150" y="264" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1">DATA → MODELS → MEASURABLE SYSTEMS</text>
   </g>
 
   <circle cx="1117" cy="50" r="4" fill="#ff304f" filter="url(#soft)"/>

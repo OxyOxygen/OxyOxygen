@@ -7,7 +7,6 @@
 I build applied machine learning, multimodal deep learning and production-minded AI systems.
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=ef233c)](https://www.kaggle.com/ardaciftci)
-[![Profile views](https://komarev.com/ghpvc/?username=OxyOxygen&style=for-the-badge&color=8b111e&label=PROFILE+VIEWS)](https://github.com/OxyOxygen)
 
 </div>
 
@@ -17,14 +16,14 @@ I build applied machine learning, multimodal deep learning and production-minded
 - Multimodal learning, clinical AI, RAG and LLM-based systems
 - Production-aware development across Python, C++ and .NET
 
-## Selected work
+## Selected work & contributions
 
-| Project | Engineering signal |
+| Project | My work / engineering signal |
 | --- | --- |
-| [Multimodal Clinical Reasoning](https://github.com/buraksamisirin/multimodal-clinical-reasoning) | Collaborative research project using BiomedCLIP + GPT-2, cross-attention and four controlled ablation variants evaluated on 1,000 samples. |
-| [Urban Mobility & Mood](https://github.com/buraksamisirin/urban-mobility-mood) | Collaborative study of 974 days of Istanbul data; statistical testing and eight ML benchmarks for mood forecasting. |
-| [Customer Churn Prediction](https://github.com/OxyOxygen/Customer_Churn_Prediction) | CatBoost pipeline with 60 engineered features, five-fold validation and competition-specific evaluation metrics. |
-| [AI Workstation Monitor](https://github.com/OxyOxygen/System_Monitor) | C++17 telemetry suite with modular hardware providers, asynchronous polling and AI-workstation diagnostics. |
+| [Multimodal Clinical Reasoning](https://github.com/buraksamisirin/multimodal-clinical-reasoning) | **Contributor** — cleaned and analyzed VQA-RAD data, engineered 34 multimodal/clinical features and documented the dataset findings. |
+| [Urban Mobility & Mood](https://github.com/buraksamisirin/urban-mobility-mood) | **Contributor** — implemented statistical analysis and ML model selection across regression and classification experiments. |
+| [Customer Churn Prediction](https://github.com/OxyOxygen/Customer_Churn_Prediction) | Built a CatBoost pipeline with 60 engineered features, five-fold validation and competition-specific evaluation metrics. |
+| [AI Workstation Monitor](https://github.com/OxyOxygen/System_Monitor) | Built a C++17 telemetry suite with modular hardware providers, asynchronous polling and AI-workstation diagnostics. |
 
 ## Core stack
 
