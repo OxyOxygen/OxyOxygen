@@ -36,6 +36,7 @@ I build applied machine learning, deep learning and production-minded AI systems
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=ef233c)
 ![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=ef233c)
 ![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=ef233c)
+![.NET](https://img.shields.io/badge/.NET-161b22?style=for-the-badge&logo=dotnet&logoColor=ef233c)
 ![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=ef233c)
 
 </div>
