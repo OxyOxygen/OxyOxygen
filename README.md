@@ -4,7 +4,7 @@
 
 ### AI R&D Intern · Computer Engineering Student
 
-I build applied machine learning, multimodal deep learning and production-minded AI systems.
+I build applied machine learning, deep learning and production-minded AI systems.
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=ef233c)](https://www.kaggle.com/ardaciftci)
 
@@ -13,7 +13,7 @@ I build applied machine learning, multimodal deep learning and production-minded
 ## Focus
 
 - Applied machine learning with measurable evaluation and reproducible experiments
-- Multimodal learning, clinical AI, RAG and LLM-based systems
+- Deep learning, computer vision, NLP, RAG and LLM-based systems
 - Production-aware development across Python, C++ and .NET
 
 ## Selected work & contributions
